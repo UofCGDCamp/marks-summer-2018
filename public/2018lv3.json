@@ -1,0 +1,71 @@
+{
+  "students":[
+    {
+      "name":"Matthew",
+      "passcode":"oi2491",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            0, 0, 1, 6, 5, 1, 1, 2
+          ],
+          "comment":"Very nice drawing program! I really like the splatter feature; it’s the first time I've seen anyone think of that. It is creative and easy to use. Good job!"
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+
+          ],
+          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+        }
+      ]
+    },
+    {
+      "name":"Tyler",
+      "passcode":"i2piq4",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            0, 0, 1, 6, 5, 1, 0.5, 0
+          ],
+          "comment":"Cool program! All the buttons work and there is a very organized HUD. There is a small glitch that after clearing the canvas, it forces the pen to turn into an eraser. The spray bottle also looks a bit strange because the drawn dots are not fills but strokes. But overall, good work!"
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+
+          ],
+          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+        }
+
+      ]
+    },
+    {
+      "name":"Jack",
+      "passcode":"nox444",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+
+          ],
+          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+        }
+      ]
+    }
+  ]
+}

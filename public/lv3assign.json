@@ -1,0 +1,152 @@
+{
+  "labs":[
+    {
+      "lab_number":1,
+      "name":"Drawing Program",
+      "percentage":15,
+      "requirements":[
+        {
+          "name":"Part A - Features",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Part B - Planning User Interface",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Canvas exists",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"3+ default features working",
+          "full_mark":6,
+          "max_mark":6
+        },
+        {
+          "name":"2+ bonus features implemented",
+          "full_mark":4,
+          "max_mark":6
+        },
+        {
+          "name":"User interface easy to use",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"No glitches",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"Creative/original features",
+          "full_mark":0,
+          "max_mark":2
+        }
+      ]
+    },
+    {
+      "lab_number":2,
+      "name":"Mobile Game",
+      "percentage":0,
+      "max_mark":20,
+      "requirements":[
+        {
+          "name":"Runs on mobile device",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Mobile input implemented",
+          "full_mark":2,
+          "max_mark":4,
+          "subrequirements":[
+            {
+              "name":"Gesture/Multitouch input implemented",
+              "full_mark":2
+            },
+            {
+              "name":"Accelerometer implemented",
+              "full_mark":2
+            },
+            {
+              "name":"Gelocation implemented",
+              "full_mark":2
+            },
+            {
+              "name":"Joystick implemented",
+              "full_mark":2
+            }
+          ]
+        },
+        {
+          "name":"Control is critical to game",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Input choice enhances experience",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Game is fun",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"No glitches",
+          "full_mark":1,
+          "max_mark":2
+        }
+      ]
+    },
+    {
+      "lab_number":3,
+      "name":"Multiplayer Game",
+      "requirements":[
+        {
+          "name":"Part A - Game Design Document",
+          "full_mark":6,
+          "max_mark":6
+        },
+        {
+          "name":"Part B - Class Planning",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Main class used",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"2+ unique classes used",
+          "full_mark":2,
+          "max_mark":3
+        },
+        {
+          "name":"Has ADDED/REMOVED listeners",
+          "full_mark":1,
+          "max_mark":2
+        },
+        {
+          "name":"Game is enjoyable",
+          "full_mark":2,
+          "max_mark":1
+        },
+        {
+          "name":"No glitches",
+          "full_mark":0,
+          "max_mark":1
+        }
+      ]
+    }
+  ],
+  "tasks":[
+
+  ],
+  "final-project":"none"
+}

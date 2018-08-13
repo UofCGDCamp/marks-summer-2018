@@ -1,0 +1,173 @@
+{
+  "labs":[
+    {
+      "lab_number":1,
+      "name":"Character Movement Animation",
+      "percentage":13,
+      "requirements":[
+        {
+          "name":"Part A - Character Design",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"Part B - Defining Actions",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"Mark section with labels",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"3+ sections",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Keyboard controls animation",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Keyboard controls movement",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Layers and nesting used",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Original animation",
+          "full_mark":0,
+          "max_mark":1
+        },
+        {
+          "name":"Animation quality",
+          "full_mark":0,
+          "max_mark":2
+        }
+      ]
+    },
+    {
+      "lab_number":2,
+      "name":"Choose Your Own Adventure",
+      "percentage":15,
+      "max_mark":20,
+      "requirements":[
+        {
+          "name":"Part A - Array Exercises",
+          "full_mark":6,
+          "max_mark":8,
+          "subrequirements":[
+            {
+              "name":"Array Exercise 1",
+              "full_mark":2
+            },
+            {
+              "name":"Array Exercise 2",
+              "full_mark":4
+            },
+            {
+              "name":"Array Exercise 3",
+              "full_mark":2
+            },
+            {
+              "name":"Array Exercise 4",
+              "full_mark":4
+            }
+          ]
+        },
+        {
+          "name":"Part B - Planning Paths",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Choice buttons work",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Game has win and lose endings",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Scenario is interesting",
+          "full_mark":3,
+          "max_mark":4
+        },
+        {
+          "name":"10+ events total",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Stats exist",
+          "full_mark":0,
+          "max_mark":1
+        },
+        {
+          "name":"HUD for stats",
+          "full_mark":0,
+          "max_mark":1
+        },
+        {
+          "name":"Sound effects",
+          "full_mark":0,
+          "max_mark":1
+        }
+      ]
+    },
+    {
+      "lab_number":3,
+      "name":"Using Classes",
+      "percentage":0,
+      "requirements":[
+        {
+          "name":"Part A - Game Design Document",
+          "full_mark":6,
+          "max_mark":6
+        },
+        {
+          "name":"Part B - Class Planning",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Main class used",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"2+ unique classes used",
+          "full_mark":2,
+          "max_mark":3
+        },
+        {
+          "name":"Has ADDED/REMOVED listeners",
+          "full_mark":1,
+          "max_mark":2
+        },
+        {
+          "name":"Game is enjoyable",
+          "full_mark":2,
+          "max_mark":1
+        },
+        {
+          "name":"No glitches",
+          "full_mark":0,
+          "max_mark":1
+        }
+      ]
+    }
+  ],
+  "tasks":[
+
+  ],
+  "final-project":"none"
+}

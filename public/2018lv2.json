@@ -1,0 +1,86 @@
+{
+  "students":[
+    {
+      "name":"Andy",
+      "passcode":"J2o9aa",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            0, 0, 1, 2, 2, 2, 2, 1, 0
+          ],
+          "comment":"Nice smiley face animation. Good use of tweens and layers. All frame labels should be put on the layer \"Labels\" to keep it neat! Also, be careful of using the keyword \"move\" as a function name, as it is colored blue it may conflict with another built-in definition."
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+            [
+              {"mark":1.5, "comment":"If random number generated is odd it will print one extra number due to printing two numbers each time the loop occurs. Also, forgot to print the random number."},
+              {"mark":4, "comment":"Missing a bracket in the submitted version."},
+              {"mark":0, "comment":"Not submitted."},
+              {"mark":0, "comment":"Not submitted."}
+            ], 0, 2, 2, 3, 2, 0, 0, 0
+          ],
+          "comment":"Very interesting story! It makes no sense, but that's what makes it interesting. I love that you must lick a goat to win the game :p"
+        }
+
+      ]
+    },
+    {
+      "name":"Ivan",
+      "passcode":"1sk35n",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            0, 0, 1, 2, 2, 2, 2, 1, 0
+          ],
+          "comment":"Cool looking block! I like your jumping frame; it looks the most natural. Keep up the good work!"
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+            [
+              {"mark":0, "comment":"Not submitted."},
+              {"mark":0, "comment":"Not submitted."},
+              {"mark":0, "comment":"Not submitted."},
+              {"mark":0, "comment":"Not submitted."}
+            ], 1.5, 2, 2, 3, 2, 0, 0, 0
+          ],
+          "comment":"You really should put a R+ rating on the title page of your game…the story is weird but interesting I guess??? I'm guessing you plagiarized off that zombie romance movie you were watching weren't you ;p Array exercises not submitted. Marks will be updated once submitted."
+        }
+      ]
+    },
+    {
+      "name":"Jonathan",
+      "passcode":"j1woe3",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+            [
+              {"mark":0, "comment":"Not submitted."},
+              {"mark":0, "comment":"Not submitted."},
+              {"mark":0, "comment":"Not submitted."},
+              {"mark":0, "comment":"Not submitted."}
+            ], 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "comment":"I feel that you understand the concept of using variables and what is happening, but you cannot translate these ideas into code. You need more practice with typing code out. If you really want to understand the material, I encourage you to not rush home at 4pm, but stay after class to review some material with me one on one. Not submitted. Marks will be updated when assignment is submitted."
+        }
+      ]
+    }
+  ]
+}
