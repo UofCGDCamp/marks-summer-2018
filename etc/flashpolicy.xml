@@ -10,6 +10,10 @@
 
    <!-- Instead of setting to-ports="*", administrator's can use ranges and commas -->
    <!-- This will allow access to ports 123, 456, 457 and 458 -->
+<<<<<<< HEAD
    <allow-access-from domain="swf.weebly.com" to-ports="*" />
+=======
+   <allow-access-from domain="*" to-ports="*" />
+>>>>>>> testing
 
 </cross-domain-policy>
