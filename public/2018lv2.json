@@ -81,6 +81,34 @@
           "comment":"I feel that you understand the concept of using variables and what is happening, but you cannot translate these ideas into code. You need more practice with typing code out. If you really want to understand the material, I encourage you to not rush home at 4pm, but stay after class to review some material with me one on one. Not submitted. Marks will be updated when assignment is submitted."
         }
       ]
+    },
+    {
+      "name":"Duncan",
+      "passcode":"Ex",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            1, 1, 1, 0, 2, 0, 2, 1, 0
+          ],
+          "comment":"Nice slime. Much wow!"
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+            [
+              {"mark":2, "comment":"If random number generated is odd it will print one extra number due to printing two numbers each time the loop occurs. Also, forgot to print the random number."},
+              {"mark":4, "comment":"Missing a bracket in the submitted version."},
+              {"mark":2, "comment":"Perfect!"},
+              {"mark":0, "comment":"Not submitted."}
+            ], 1, 2, 2, 3, 2, 1, 0, 0
+          ],
+          "comment":"Example comment."
+        }
+
+      ]
     }
   ]
 }
