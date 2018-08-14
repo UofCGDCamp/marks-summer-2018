@@ -249,3 +249,48 @@ const http = require("http");
 setInterval(function() {
     http.get("http://marks-summer-2018.herokuapp.com/");
 }, 300000); // every 5 minutes (300000)
+
+
+
+/*
+A simple Flash socket policy server for NodeJS. Request must be, and response is, null-terminated, according to Adobe spec.
+*/
+
+var file = process.argv[2] || './etc/flashpolicy.xml',
+	host = process.argv[3] || 'localhost',
+	port = process.argv[4] || 843,
+	poli;
+
+var fsps = require('net').createServer(function (stream) {
+	stream.setEncoding('utf8');
+	stream.setTimeout(3000); // 3s
+	stream.on('connect', function () {
+		console.log('Got connection from ' + stream.remoteAddress + '.');
+	});
+	stream.on('data', function (data) {
+		if (data == '<policy-file-request/>\0') {
+			console.log('Good request. Sending file to ' + stream.remoteAddress + '.')
+      console.log(poli);
+			stream.end(poli + '\0');
+		} else {
+			console.log('Bad request from ' + stream.remoteAddress + '.');
+			stream.end();
+		}
+	});
+	stream.on('end', function () {
+		stream.end();
+	});
+	stream.on('timeout', function () {
+		console.log('Request from ' + stream.remoteAddress + ' timed out.');
+		stream.end();
+	});
+});
+
+require('fs').readFile(file, 'utf8', function (err, content) {
+	if (err) throw err;
+  poli = content;
+	fsps.listen(port, host);
+	//process.setgid('nobody');
+	//process.setuid('nobody');
+	console.log('Flash socket policy server running at ' + host + ':' + port + ' and serving ' + file);
+});
