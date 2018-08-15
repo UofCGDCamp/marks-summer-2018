@@ -50,7 +50,7 @@
     {
       "lab_number":2,
       "name":"Mobile Game",
-      "percentage":0,
+      "percentage":18,
       "max_mark":20,
       "requirements":[
         {
@@ -61,7 +61,7 @@
         {
           "name":"Mobile input implemented",
           "full_mark":2,
-          "max_mark":4,
+          "max_mark":3,
           "subrequirements":[
             {
               "name":"Gesture/Multitouch input implemented",
@@ -99,7 +99,7 @@
         {
           "name":"No glitches",
           "full_mark":1,
-          "max_mark":2
+          "max_mark":1
         }
       ]
     },

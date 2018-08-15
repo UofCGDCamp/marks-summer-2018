@@ -45,8 +45,8 @@
           "number":2,
           "marks":[
             [
-              {"mark":0, "comment":"Not submitted."},
-              {"mark":0, "comment":"Not submitted."},
+              {"mark":2, "comment":"Perfect!"},
+              {"mark":4, "comment":"Perfect!"},
               {"mark":0, "comment":"Not submitted."},
               {"mark":0, "comment":"Not submitted."}
             ], 1.5, 2, 2, 3, 2, 0, 0, 0

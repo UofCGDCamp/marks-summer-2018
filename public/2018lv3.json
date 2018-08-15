@@ -16,9 +16,14 @@
           "type":"lab",
           "number":2,
           "marks":[
-
+            3, [
+              {"mark":2, "comment":"No comment."},
+              {"mark":2, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."}
+              ], 2, 1, 1, 1
           ],
-          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+          "comment":"Nice idle game. Good use of accelerometer and click and drag. I think its better than cookie clicker, not that that is saying much ;p"
         }
       ]
     },
@@ -38,9 +43,14 @@
           "type":"lab",
           "number":2,
           "marks":[
-
+            3, [
+              {"mark":2, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."}
+              ], 1, 0.5, 1, 1
           ],
-          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+          "comment":"Nice modification of your punishing car game. While it is somewhat less punishing, it is still not completely intuitive turn using left and right joystick. Good job though!"
         }
 
       ]
@@ -53,17 +63,22 @@
           "type":"lab",
           "number":1,
           "marks":[
-            0, 0, 0, 0, 0, 0, 0, 0
+            2, 2, 1, 6, 4, 1, 0.5, 0
           ],
-          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+          "comment":"Good job! The program can perform all of the basic functions. Your program also gives errors from the Camera built-in class because you have an extara camera layer that is not needed. When I select a different color it draws a segment in old color and then switches; I'm not sure what is wrong either because I think your code makes sense."
         },
         {
           "type":"lab",
           "number":2,
           "marks":[
-
+            3, [
+              {"mark":2, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."}
+              ], 2, 1, 1, 1
           ],
-          "comment":"Not submitted. Marks will be updated when assignment is submitted."
+          "comment":"Great job implementing the joystick to make a cool interactive maze game! Why do I respawn in different locations when I am hit from different places though?"
         }
       ]
     }
