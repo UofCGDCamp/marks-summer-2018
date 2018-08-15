@@ -108,39 +108,34 @@
       "name":"Multiplayer Game",
       "requirements":[
         {
-          "name":"Part A - Game Design Document",
-          "full_mark":6,
-          "max_mark":6
-        },
-        {
-          "name":"Part B - Class Planning",
-          "full_mark":3,
-          "max_mark":3
-        },
-        {
-          "name":"Main class used",
+          "name":"Info sent to server",
           "full_mark":2,
           "max_mark":2
         },
         {
-          "name":"2+ unique classes used",
+          "name":"Info received is handled",
           "full_mark":2,
-          "max_mark":3
-        },
-        {
-          "name":"Has ADDED/REMOVED listeners",
-          "full_mark":1,
           "max_mark":2
         },
         {
-          "name":"Game is enjoyable",
+          "name":"Only necessary info is sent",
           "full_mark":2,
-          "max_mark":1
+          "max_mark":2
         },
         {
-          "name":"No glitches",
+          "name":"Game is fun",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Multiplayer is essential to game",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Server handles messages",
           "full_mark":0,
-          "max_mark":1
+          "max_mark":2
         }
       ]
     }
