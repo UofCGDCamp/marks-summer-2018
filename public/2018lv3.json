@@ -24,6 +24,22 @@
               ], 2, 1, 1, 1
           ],
           "comment":"Nice idle game. Good use of accelerometer and click and drag. I think its better than cookie clicker, not that that is saying much ;p"
+        },
+        {
+          "type":"lab",
+          "number":3,
+          "marks":[
+            2, 2, 2, 2, 2, 0
+          ],
+          "comment":"Cool Tic-Tac-Toe game! It works perfectly and it is very neatly organized. The only thing I question is the fact that X and O are not placed simply by clicking but have to move my cursor. Good job!"
+        },
+        {
+          "type":"lab",
+          "number":4,
+          "marks":[
+            1, 3, 3, 3, 3, 3, 4, 4, 3
+          ],
+          "comment":"I see that you have carefully considered your future career. I wish you all the best in your endeavors to become a game designer!"
         }
       ]
     },
@@ -51,6 +67,22 @@
               ], 1, 0.5, 1, 1
           ],
           "comment":"Nice modification of your punishing car game. While it is somewhat less punishing, it is still not completely intuitive turn using left and right joystick. Good job though!"
+        },
+        {
+          "type":"lab",
+          "number":3,
+          "marks":[
+            2, 2, 2, 2, 2, 0
+          ],
+          "comment":"Nice tag game, it is super fun to play. The copied version is missing some stuff, but I re-copied the original file and it works properly. You should make this into a mobile game. Great job!"
+        },
+        {
+          "type":"lab",
+          "number":4,
+          "marks":[
+            1, 3, 3, 3, 0, 0, 0, 0, 0
+          ],
+          "comment":"Insightful research has been done about game designers. You are still missing the second half of the assignment."
         }
 
       ]
@@ -79,7 +111,43 @@
               ], 2, 1, 1, 1
           ],
           "comment":"Great job implementing the joystick to make a cool interactive maze game! Why do I respawn in different locations when I am hit from different places though?"
+        },
+        {
+          "type":"lab",
+          "number":4,
+          "marks":[
+            1, 3, 3, 3, 3, 3, 4, 4, 3
+          ],
+          "comment":"Very detailed report on computer programmers. Good to see that you have a clear direction for the career you wish to pursue in life. I wish you all the best in your endeavors to become a computer programmer!"
         }
+      ]
+    },
+    {
+      "name":"Duncan",
+      "passcode":"Ex",
+      "assignments_info":[
+        {
+          "type":"lab",
+          "number":1,
+          "marks":[
+            2, 2, 1, 6, 4, 1, 1, 0
+          ],
+          "comment":"HI!"
+        },
+        {
+          "type":"lab",
+          "number":2,
+          "marks":[
+            3, [
+              {"mark":2, "comment":"No comment."},
+              {"mark":2, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."},
+              {"mark":0, "comment":"No comment."}
+              ], 2, 2, 2, 1
+          ],
+          "comment":"Win!"
+        }
+
       ]
     }
   ]

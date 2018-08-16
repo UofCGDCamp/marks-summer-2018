@@ -106,6 +106,7 @@
     {
       "lab_number":3,
       "name":"Multiplayer Game",
+      "percentage":20,
       "requirements":[
         {
           "name":"Info sent to server",
@@ -136,6 +137,58 @@
           "name":"Server handles messages",
           "full_mark":0,
           "max_mark":2
+        }
+      ]
+    },
+    {
+      "lab_number":4,
+      "name":"Career Research",
+      "percentage":18,
+      "requirements":[
+        {
+          "name":"Career Choice",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"Job Description",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Working Conditions",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Wages and Earnings",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Career Path",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Education and Training Requirements",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Post Secondary 1",
+          "full_mark":4,
+          "max_mark":4
+        },
+        {
+          "name":"Post Secondary 2",
+          "full_mark":4,
+          "max_mark":4
+        },
+        {
+          "name":"Education Path",
+          "full_mark":3,
+          "max_mark":3
         }
       ]
     }

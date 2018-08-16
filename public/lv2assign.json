@@ -164,6 +164,53 @@
           "max_mark":1
         }
       ]
+    },
+    {
+      "lab_number":4,
+      "name":"Trigonometry",
+      "percentage":18,
+      "requirements":[
+        {
+          "name":"Part A - Homework",
+          "full_mark":2,
+          "max_mark":2.5
+        },
+        {
+          "name":"Movement outside x/y axes",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Part C - Enemies and Obstacles",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"Enemies exist",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"Enemies interactive",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"Win&Lose/High Score",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"No glitches",
+          "full_mark":1,
+          "max_mark":1
+        },
+        {
+          "name":"AI Targeting",
+          "full_mark":0,
+          "max_mark":1
+        }
+      ]
     }
   ],
   "tasks":[
