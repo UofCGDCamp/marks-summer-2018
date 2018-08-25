@@ -191,7 +191,63 @@
           "max_mark":3
         }
       ]
+    },
+    {
+      "lab_number":5,
+      "name":"Final Game",
+      "percentage":27,
+      "requirements":[
+        {
+          "name":"1 of 4 implemented",
+          "full_mark":4,
+          "max_mark":6,
+          "subrequirements":[
+            {
+              "name":"Used Graphics class",
+              "full_mark":4
+            },
+            {
+              "name":"Mobile game",
+              "full_mark":4
+            },
+            {
+              "name":"Multiplayer game",
+              "full_mark":4
+            },
+            {
+              "name":"3D game",
+              "full_mark":4
+            }
+          ]
+        },
+        {
+          "name":"Game Idea and Mechanics",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Complexity and Length",
+          "full_mark":3,
+          "max_mark":3
+        },
+        {
+          "name":"Code Efficiency",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"No glitches",
+          "full_mark":2,
+          "max_mark":2
+        },
+        {
+          "name":"Aesthetics",
+          "full_mark":0,
+          "max_mark":2
+        }
+      ]
     }
+
   ],
   "tasks":[
 
